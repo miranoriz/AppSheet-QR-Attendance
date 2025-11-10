@@ -1,6 +1,6 @@
 # 🏍️ Ride Safe App — QR Attendance AppSheet Project
 
-- Simple QR Attendance Prototype for SMK Taman Klang 
+- Simple QR Attendance Prototype for SMK Taman Klang's innovation competition
 - A no-code mobile app built using AppSheet to record students’ attendance who ride motorcycles to school by scanning a QR code.
 
 ---
